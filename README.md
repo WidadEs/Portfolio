@@ -39,8 +39,8 @@ Techniques d'apprentissage automatique : Gaussian Processes for Classification V
 
 Vous pouvez me contacter via les réseaux sociaux ou par email :
 
-- **Email** : [votre.email@example.com](mailto:widad200277@gmail.com)
-- **LinkedIn** : [Votre Profil LinkedIn](https://www.linkedin.com/in/widad-essetti-3a7030272/)
-- **Github** : [@votreutilisateur](https://github.com/WidadEs)
+- **Email** : [widad200277@gmail.com](mailto:widad200277@gmail.com)
+- **LinkedIn** : [https://www.linkedin.com/in/widad-essetti-3a7030272/](https://www.linkedin.com/in/widad-essetti-3a7030272/)
+- **Github** : [@WidadEs](https://github.com/WidadEs)
 
 
