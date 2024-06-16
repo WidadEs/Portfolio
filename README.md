@@ -1,6 +1,10 @@
 # Artificial intelligence and data science Master’s Student
 
-#### Technical Skills: Python, C++, JAVA, SQL, T-SQL, Docker, Scikit Learn, Apache Kafka, MongoDB, Apache Hadoop
+## À propos de moi
+Je m'appelle Widad Essetti et j'ai 22 ans. Je suis actuellement étudiant en master, poursuivant un diplôme en Intelligence Artificielle et Science des Données.
+
+## Technical Skills
+Python, C++, JAVA, SQL, T-SQL, Docker, Scikit Learn, Apache Kafka, MongoDB, Apache Hadoop
 
 ## Education
 - 2023-2025: Master en Intelligence artificielle et science de données | la faculté De science et technique de Tanger
@@ -30,5 +34,13 @@ J'ai mis en œuvre un chatbot personnalisé utilisant un système de génératio
 ### Crédits à risque 
 
 Techniques d'apprentissage automatique : Gaussian Processes for Classification VS Logistic  Regression
+
+## Contact
+
+Vous pouvez me contacter via les réseaux sociaux ou par email :
+
+- **Email** : [votre.email@example.com](mailto:widad200277@gmail.com)
+- **LinkedIn** : [Votre Profil LinkedIn](https://www.linkedin.com/in/widad-essetti-3a7030272/)
+- **Github** : [@votreutilisateur](https://github.com/WidadEs)
 
 
